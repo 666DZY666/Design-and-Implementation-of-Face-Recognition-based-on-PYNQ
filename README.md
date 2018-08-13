@@ -10,3 +10,6 @@
     This project belongs to the embedded realization of computer vision algorithm combined with deep learning, This will be followed by more in-depth research and implementation based on this project in this direction. 
  
 Key Words：Face recognition, computer vision, deep learning, PYNQ, Movidius NCS 
+
+
+Project video:https://pan.baidu.com/s/1ab7fX8GNBhxS2EiDcyG2wA
