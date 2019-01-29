@@ -12,4 +12,4 @@
 Key Words：Face recognition, computer vision, deep learning, PYNQ, Movidius NCS 
 
 
-Project video:https://pan.baidu.com/s/1ab7fX8GNBhxS2EiDcyG2wA
+Project video:https://www.bilibili.com/video/av39977458
